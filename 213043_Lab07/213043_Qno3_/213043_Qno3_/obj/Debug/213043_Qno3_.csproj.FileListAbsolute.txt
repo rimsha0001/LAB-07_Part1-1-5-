@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\bin\Debug\213043_Qno3_.exe.config
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\bin\Debug\213043_Qno3_.exe
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\bin\Debug\213043_Qno3_.pdb
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\213043_Qno3_.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\_213043_Qno3_.Form1.resources
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\_213043_Qno3_.Properties.Resources.resources
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\213043_Qno3_.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\213043_Qno3_.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\213043_Qno3_.exe
+C:\Users\HP\source\repos\213043_Qno3_\213043_Qno3_\obj\Debug\213043_Qno3_.pdb

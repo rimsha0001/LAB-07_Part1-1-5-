@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\bin\Debug\213043_Qno05_.exe.config
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\bin\Debug\213043_Qno05_.exe
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\bin\Debug\213043_Qno05_.pdb
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\213043_Qno05_.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\_213043_Qno05_.Form1.resources
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\_213043_Qno05_.Properties.Resources.resources
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\213043_Qno05_.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\213043_Qno05_.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\213043_Qno05_.exe
+C:\Users\HP\source\repos\213043_Qno05_\213043_Qno05_\obj\Debug\213043_Qno05_.pdb
